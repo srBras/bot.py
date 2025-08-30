@@ -1,0 +1,162 @@
+{
+    "548231276-26c571c8-e249-495f-a6f8-62f70b377092": {
+        "preference_id": "548231276-26c571c8-e249-495f-a6f8-62f70b377092",
+        "user_id": 1330788200096206866,
+        "plano": {
+            "id_plano": 1,
+            "descricao": "Vendedor Vermelho 🔴",
+            "tipo": "vendedor",
+            "dias_post": 1,
+            "preco": 25.0
+        },
+        "amount": 25.0,
+        "status": "pending",
+        "created_date": "2025-08-26T23:39:44.926-04:00",
+        "checkout_link": "https://www.mercadopago.com.br/checkout/v1/redirect?pref_id=548231276-26c571c8-e249-495f-a6f8-62f70b377092",
+        "external_reference": "plano_1_user_1330788200096206866_1756265984"
+    },
+    "548231276-103d89c6-63b6-4544-87cc-99a99ef987b5": {
+        "preference_id": "548231276-103d89c6-63b6-4544-87cc-99a99ef987b5",
+        "user_id": 1330788200096206866,
+        "plano": {
+            "id_plano": 1,
+            "descricao": "Vendedor Vermelho 🔴",
+            "tipo": "vendedor",
+            "dias_post": 1,
+            "preco": 25.0
+        },
+        "amount": 25.0,
+        "status": "pending",
+        "created_date": "2025-08-26T23:45:43.918-04:00",
+        "checkout_link": "https://www.mercadopago.com.br/checkout/v1/redirect?pref_id=548231276-103d89c6-63b6-4544-87cc-99a99ef987b5",
+        "external_reference": "plano_1_user_1330788200096206866_1756266344"
+    },
+    "548231276-55e731ee-b78f-43fb-aca5-119ee33c34ff": {
+        "preference_id": "548231276-55e731ee-b78f-43fb-aca5-119ee33c34ff",
+        "user_id": 1330788200096206866,
+        "plano": {
+            "id_plano": 1,
+            "descricao": "Vendedor Vermelho 🔴",
+            "tipo": "vendedor",
+            "dias_post": 1,
+            "preco": 25.0
+        },
+        "amount": 25.0,
+        "status": "pending",
+        "created_date": "2025-08-27T11:21:00.385-04:00",
+        "checkout_link": "https://www.mercadopago.com.br/checkout/v1/redirect?pref_id=548231276-55e731ee-b78f-43fb-aca5-119ee33c34ff",
+        "external_reference": "plano_1_user_1330788200096206866_1756308058"
+    },
+    "548231276-eee5260d-74c4-4250-8081-9c1d3ed3f315": {
+        "preference_id": "548231276-eee5260d-74c4-4250-8081-9c1d3ed3f315",
+        "user_id": 1231806162802966558,
+        "plano": {
+            "id_plano": 3,
+            "descricao": "Vendedor Azul 🔵",
+            "tipo": "vendedor",
+            "dias_post": 2,
+            "preco": 7.9
+        },
+        "amount": 7.9,
+        "status": "approved",
+        "created_date": "2025-08-27T19:43:25.719-04:00",
+        "checkout_link": "https://www.mercadopago.com.br/checkout/v1/redirect?pref_id=548231276-eee5260d-74c4-4250-8081-9c1d3ed3f315",
+        "external_reference": "plano_3_user_1231806162802966558_1756338204"
+    },
+    "548231276-2184f9f3-ef16-4cf0-9621-0ec28a2a54c3": {
+        "preference_id": "548231276-2184f9f3-ef16-4cf0-9621-0ec28a2a54c3",
+        "user_id": 1231806162802966558,
+        "plano": {
+            "id_plano": 3,
+            "descricao": "Vendedor Azul 🔵",
+            "tipo": "vendedor",
+            "dias_post": 2,
+            "preco": 7.9
+        },
+        "amount": 7.9,
+        "status": "pending",
+        "created_date": "2025-08-27T19:48:35.984-04:00",
+        "checkout_link": "https://www.mercadopago.com.br/checkout/v1/redirect?pref_id=548231276-2184f9f3-ef16-4cf0-9621-0ec28a2a54c3",
+        "external_reference": "plano_3_user_1231806162802966558_1756338514"
+    },
+    "548231276-448ae1e9-2d4e-4efc-bf13-c934e6a2b4da": {
+        "preference_id": "548231276-448ae1e9-2d4e-4efc-bf13-c934e6a2b4da",
+        "user_id": 1330788200096206866,
+        "plano": {
+            "id_plano": 1,
+            "descricao": "Vendedor Vermelho 🔴",
+            "tipo": "vendedor",
+            "dias_post": 1,
+            "preco": 25.0
+        },
+        "amount": 25.0,
+        "status": "pending",
+        "created_date": "2025-08-28T22:27:36.226-04:00",
+        "checkout_link": "https://www.mercadopago.com.br/checkout/v1/redirect?pref_id=548231276-448ae1e9-2d4e-4efc-bf13-c934e6a2b4da",
+        "external_reference": "plano_1_user_1330788200096206866_1756434456"
+    },
+    "548231276-70a7b4de-67a8-4b52-ae19-a1e4ae6a6bc4": {
+        "preference_id": "548231276-70a7b4de-67a8-4b52-ae19-a1e4ae6a6bc4",
+        "user_id": 1330788200096206866,
+        "plano": {
+            "id_plano": 1,
+            "descricao": "Vendedor Vermelho 🔴",
+            "tipo": "vendedor",
+            "dias_post": 1,
+            "preco": 25.0
+        },
+        "amount": 25.0,
+        "status": "pending",
+        "created_date": "2025-08-29T18:18:50.938-04:00",
+        "checkout_link": "https://www.mercadopago.com.br/checkout/v1/redirect?pref_id=548231276-70a7b4de-67a8-4b52-ae19-a1e4ae6a6bc4",
+        "external_reference": "plano_1_user_1330788200096206866_1756505929"
+    },
+    "548231276-228581d0-feaf-452a-ae7a-fe766a353f01": {
+        "preference_id": "548231276-228581d0-feaf-452a-ae7a-fe766a353f01",
+        "user_id": 1330788200096206866,
+        "plano": {
+            "id_plano": 1,
+            "descricao": "Vendedor Vermelho 🔴",
+            "tipo": "vendedor",
+            "dias_post": 1,
+            "preco": 25.0
+        },
+        "amount": 25.0,
+        "status": "pending",
+        "created_date": "2025-08-30T09:52:57.325-04:00",
+        "checkout_link": "https://www.mercadopago.com.br/checkout/v1/redirect?pref_id=548231276-228581d0-feaf-452a-ae7a-fe766a353f01",
+        "external_reference": "plano_1_user_1330788200096206866_1756561976"
+    },
+    "548231276-8a338332-8129-421c-a37c-4c632499bc81": {
+        "preference_id": "548231276-8a338332-8129-421c-a37c-4c632499bc81",
+        "user_id": 1330788200096206866,
+        "plano": {
+            "id_plano": 1,
+            "descricao": "Vendedor Vermelho 🔴",
+            "tipo": "vendedor",
+            "dias_post": 1,
+            "preco": 25.0
+        },
+        "amount": 25.0,
+        "status": "pending",
+        "created_date": "2025-08-30T19:18:22.093-04:00",
+        "checkout_link": "https://www.mercadopago.com.br/checkout/v1/redirect?pref_id=548231276-8a338332-8129-421c-a37c-4c632499bc81",
+        "external_reference": "plano_1_user_1330788200096206866_1756595899"
+    },
+    "548231276-6e78896b-ad0f-46d5-a65b-db37f839220e": {
+        "preference_id": "548231276-6e78896b-ad0f-46d5-a65b-db37f839220e",
+        "user_id": 1330788200096206866,
+        "plano": {
+            "id_plano": 1,
+            "descricao": "Vendedor Vermelho 🔴",
+            "tipo": "vendedor",
+            "dias_post": 1,
+            "preco": 25.0
+        },
+        "amount": 25.0,
+        "status": "pending",
+        "created_date": "2025-08-30T19:18:23.734-04:00",
+        "checkout_link": "https://www.mercadopago.com.br/checkout/v1/redirect?pref_id=548231276-6e78896b-ad0f-46d5-a65b-db37f839220e",
+        "external_reference": "plano_1_user_1330788200096206866_1756595901"
+    }
+}

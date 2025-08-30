@@ -1,0 +1,50 @@
+[
+    {
+        "user_id": 1330788200096206866,
+        "id_plano": 7,
+        "tipo": "comprador",
+        "descricao": "Comprador Vermelho 🔴 (Compra Única)",
+        "preco": 37.5,
+        "status": "pending",
+        "imediato": true,
+        "referencia": "1330788200096206866-7-1756255014-5316",
+        "data_criado": 1756255014,
+        "data_inicio": null,
+        "data_fim": null
+    },
+    {
+        "user_id": 1330788200096206866,
+        "id_plano": 7,
+        "tipo": "comprador",
+        "descricao": "Comprador Vermelho 🔴",
+        "preco": 25.0,
+        "status": "pending",
+        "imediato": false,
+        "referencia": "1330788200096206866-7-1756255021-4747",
+        "data_criado": 1756255021,
+        "data_inicio": null,
+        "data_fim": null
+    },
+    {
+        "user_id": 1330788200096206866,
+        "id_plano": 7,
+        "tipo": "comprador",
+        "descricao": "Comprador Vermelho 🔴",
+        "preco": 25.0,
+        "status": "pending",
+        "imediato": false,
+        "referencia": "1330788200096206866-7-1756255122-3942",
+        "data_criado": 1756255122,
+        "data_inicio": null,
+        "data_fim": null
+    },
+    {
+        "user_id": 1231806162802966558,
+        "id_plano": 3,
+        "descricao": "Vendedor Azul 🔵",
+        "tipo": "vendedor",
+        "pago": true,
+        "data_inicio": 1756338636,
+        "data_fim": 1758930636
+    }
+]
